@@ -3,13 +3,13 @@ Meetup #12
 
 ## Charlas :
 
-- **Procesos Asíncronos en Android I talk**  por [Eduardo Medina](https://github.com/emedinaa) 
+- **Procesos Asíncronos en Android I**  por [Eduardo Medina](https://github.com/emedinaa) 
 
 Github [source](https://github.com/emedinaa/android-asynchronous-processes)
 
 Slide [URL](#)
 
-- **Android Intents with Dart & Henson talk** por [Diego Velásquez](https://github.com/diegoveloper)
+- **Android Intents with Dart & Henson** por [Diego Velásquez](https://github.com/diegoveloper)
 
 Github [source](#)
 
